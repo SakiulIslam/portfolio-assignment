@@ -1,0 +1,13 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 60px;
+    color: #363958;
+}
+.orange-color{
+    color: #FF8367;
+}
+p{
+    color: dimgray;
+}
